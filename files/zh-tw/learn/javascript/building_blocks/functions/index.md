@@ -27,9 +27,9 @@ slug: Learn/JavaScript/Building_blocks/Functions
   </tbody>
 </table>
 
-## Where do I find functions?
+## 我能在哪裡發現函式？
 
-In JavaScript, you'll find functions everywhere. In fact, we've been using functions all the way through the course so far; we've just not been talking about them very much. Now is the time, however, for us to start talking about functions explicitly, and really exploring their syntax.
+在 JavaScript 裏，你可以在任何地方發現函式。 事實上，目前為止，我們已經在課程中不斷使用函式；只是我們沒有強調罷了。但是，現在是時候，讓我們開始精確地談函式，並且真正地探索它的語法。
 
 Pretty much anytime you make use of a JavaScript structure that features a pair of parentheses — `()` — and you're **not** using a common built-in language structure like a [for loop](/zh-TW/Learn/JavaScript/Building_blocks/Looping_code#The_standard_for_loop), [while or do...while loop](/zh-TW/Learn/JavaScript/Building_blocks/Looping_code#while_and_do_..._while), or [if...else statement](/zh-TW/Learn/JavaScript/Building_blocks/conditionals#if_..._else_statements), you are making use of a function.
 
